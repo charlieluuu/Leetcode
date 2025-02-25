@@ -1,4 +1,3 @@
-from math import sqrt
 
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:
